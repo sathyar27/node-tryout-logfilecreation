@@ -1,0 +1,13 @@
+{
+  "name": "node-tryout",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "ramda": "^0.25.0"
+  }
+}
